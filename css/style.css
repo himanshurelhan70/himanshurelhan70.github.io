@@ -337,13 +337,22 @@ footer small {
 .home .intro {
   text-align: center;
 }
-.home .intro img {
+.home .intro .img-div {
+  height: 200px;
+  width: 200px;
+  background: url("../images/h5.jpg") no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  border: 8px solid #ffffff;
+  margin: 0 auto;
+}
+/* .home .intro img {
   height: 200px;
   width: 200px;
   border-radius: 50%;
   display: inline-block;
   border: 8px solid #ffffff;
-}
+} */
 .home .intro h1 {
   font-size: 30px;
   color: #302e4c;
