@@ -755,6 +755,7 @@ body.dark .aside .nav li a {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
     max-width: 50%;
+    padding-bottom: 30px;
   }
 }
 @media (max-width: 815px) {
@@ -784,7 +785,6 @@ body.dark .aside .nav li a {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
     max-width: 100%;
-    padding-bottom: 30px;
   }
 }
 @media (max-width: 580px) {
